@@ -1,0 +1,2 @@
+rootProject.name='AlertiDialog_With_Kotlin'
+include ':app'
